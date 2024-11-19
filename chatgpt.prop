@@ -1,0 +1,13 @@
+{
+	"modules": {
+		"chatgpt": {
+			"version": "1.0",
+			"name": "Chat GPT",
+			"rules": {
+				"question":["farted","gpt","chat gpt","open ay"]
+			},
+			"apikey":"",
+			"active":true
+		}
+	}
+}
