@@ -1,6 +1,6 @@
 # Plugins ChatGPT
 
-Plugin qui permet de poser une question à ChatGPT en pasant par son API.
+Plugin qui permet de poser une question à ChatGPT en passant par son API.
 
 --- 
 
