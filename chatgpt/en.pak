@@ -1,0 +1,11 @@
+{
+    "message": {
+        "request":"What is your request ?|What is your question ?",
+		"valid":"The request sent is:",
+        "errpacklang":"chatgpt: unable to load language pack files",
+        "noreponse":"No response received.",
+        "reponsedone":"Interaction ended.",
+        "reponsenovalid":"Feel free to reach out again.",
+        "limitonesentance":" I would like the response in two complete sentences."
+    }
+}
