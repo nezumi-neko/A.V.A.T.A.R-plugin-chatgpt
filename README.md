@@ -19,7 +19,7 @@ Règle à utiliser : "ChatGPT"
 >
 > **ETAPE 2 :** \
 > Avatar : `A tu une autre question ?`\
-> Si l'utilisateur répond "oui", il rebouclera sur l'étape 1, une tout autre réponse mettra fin au plugin \
+> Si l'utilisateur répond "oui", il rebouclera sur l'étape 1, une tout autre réponse mettra fin au plugin\
 >
 
 <br>
