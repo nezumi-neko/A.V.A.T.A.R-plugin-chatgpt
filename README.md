@@ -15,11 +15,11 @@ Règle à utiliser : "ChatGPT"
 > Avatar : `Quel est votre question à poser !`\
 > Vous : `Qu'est-ce que chat gpt ?`\
 > Avatar envoi la question via l'API de Chatgpt et récupère la réponse \
-> Avatar : `Chat GPT est un modèle de langage artificiel développé par OpenAI qui utilise l'apprentissage automatique pour générer des réponses textuelles en langage naturel.` \
+> Avatar : `Chat GPT est un modèle de langage artificiel développé par OpenAI qui utilise l'apprentissage automatique pour générer des réponses textuelles en langage naturel.` 
 >
 > **ETAPE 2 :** \
 > Avatar : `A tu une autre question ?`\
-> Si l'utilisateur répond "oui", il rebouclera sur l'étape 1, une tout autre réponse mettra fin au plugin\
+> Si l'utilisateur répond "oui", il rebouclera sur l'étape 1, une tout autre réponse mettra fin au plugin
 >
 
 <br>
