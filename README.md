@@ -23,7 +23,7 @@ Règle à utiliser : "ChatGPT"
 >
 
 <br>
-- La réponse de ChatGPT est limitée à une phrase : 
+La réponse de ChatGPT est limitée à une phrase : 
 - `"limitonesentance"` : " Je souhaite la réponse en deux phrases complète.",
 
 Cette phrase est en faite ajouté à la fin de la question que l'on pose, pour limiter la réponse de chatGTP en deux phrases.  
