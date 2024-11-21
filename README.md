@@ -28,7 +28,7 @@ Règle à utiliser : "ChatGPT"
 
 Cette phrase est en faite ajouté à la fin de la question que l'on pose, pour limiter la réponse de chatGTP en deux phrases.  
 - Et, à unn maximum de 90 tokens (pour la réponse : "completion") :
-- 
+  
 Cette valeur peut être changé dans le fichier .js du plugin : `max_tokens: 64`. 
 <br>
 
