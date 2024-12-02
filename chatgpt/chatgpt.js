@@ -8,7 +8,7 @@ const openai = new OpenAI({
 
 export async function init() {
     if (!await Avatar.lang.addPluginPak("chatgpt")) {
-        return error(, data.client));
+        return error('chatgpt : impossible de charger les fichiers du pack de langue', data.client));
     }
 }
 
