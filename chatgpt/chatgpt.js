@@ -8,7 +8,7 @@ const openai = new OpenAI({
 
 export async function init() {
     if (!await Avatar.lang.addPluginPak("chatgpt")) {
-        return Error(Locale.get('message.errpacklang', data.client));
+        return error(, data.client));
     }
 }
 
@@ -16,7 +16,7 @@ export async function action(data, callback) {
     try {
         Locale = await Avatar.lang.getPak("chatgpt", data.language);
         if (!Locale) {
-            throw new Error(`${Locale.get('message.errpacklang', data.client)} ${data.language}`);
+            throw new error('chatgpt : impossible de charger les fichiers du pack de langue', data.client)} ${data.language}`);
         }
 
         Avatar.askme(Locale.get('message.request', data.client), data.client, {
