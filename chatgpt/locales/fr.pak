@@ -1,8 +1,7 @@
 {
     "message": {
         "request":"Quelle est votre demande ?|Quelle est votre question pour chat GPT?|Que souhaite tu savoir ?|Que dois-je chercher sur chat GPT ?",
-		"valid":"La requête envoyée est :",
-        "errpacklang":"chatgpt : impossible de charger les fichiers du pack de langue",
+	"valid":"La requête envoyée est :",
         "noreponse":"Pas de réponse reçue.",
         "reponsedone":"Interaction terminée.",
         "reponsenovalid":"N'hésitez pas a revenir vers moi.",
