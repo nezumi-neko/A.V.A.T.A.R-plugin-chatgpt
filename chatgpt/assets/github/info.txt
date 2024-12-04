@@ -1,4 +1,0 @@
-
-Plugin qui permet de poser une question à l'IA ChatGPT en passant par son API.
-
-Plugin that allows asking a question to the ChatGPT AI through its API.
